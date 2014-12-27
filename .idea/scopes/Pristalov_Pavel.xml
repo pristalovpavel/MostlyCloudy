@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Pristalov Pavel" pattern="src[app]:com.pristalovpavel.mostlycloudy.CloudyFragment||src[app]:com.pristalovpavel.mostlycloudy.MainActivity" />
+</component>
